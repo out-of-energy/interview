@@ -1,4 +1,4 @@
-# Zoom 面试文档（Java 后端）- 谢戈
+# Zoom 面试文档（Java 后端）
 
 > **时长**：30–35 分钟（无现场编码）  
 > **目标**：验证 Java 基础是否扎实、Spring Boot 是否真熟练、是否理解 Spring Data JPA 基本概念、RESTful 设计是否靠谱、数据库基础是否过线。  
